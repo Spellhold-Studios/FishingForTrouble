@@ -39,8 +39,8 @@ ALWAYS
 	END
 END
 
-LANGUAGE ~English~ ~english~ ~FishingForTrouble/language/english/english.tra~
-LANGUAGE ~Russian (by subzero400, Velv, minor updates by AGKanevchev)~ ~russian~ ~FishingForTrouble/language/russian/russian.tra~
+LANGUAGE ~English~ ~english~ ~FishingForTrouble/language/english/setup.tra~
+LANGUAGE ~Russian (by subzero400, Velv, minor updates by AGKanevchev)~ ~russian~ ~FishingForTrouble/language/russian/setup.tra~
 LANGUAGE ~Simplified Chinese (by Archenemy, minor updates by Yoshimo0417)~ ~schinese~ ~FishingForTrouble/language/schinese/install.tra~
 
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
