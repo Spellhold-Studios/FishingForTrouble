@@ -24,7 +24,7 @@ ALWAYS
 	END
 
 	/* Converts tra files to UTF-8 */
-	ACTION_DEFINE_ARRAY noconvert BEGIN setup-osx setup-unix setup-win32 END
+	ACTION_DEFINE_ARRAY noconvert BEGIN setup END
 
 	// any tra files used in LANGUAGE need to be reloaded after UTF-8 conversion
 	ACTION_DEFINE_ARRAY reload BEGIN Setup END
@@ -41,7 +41,7 @@ END
 
 LANGUAGE ~English~ ~english~ ~FishingForTrouble/language/english/setup.tra~
 LANGUAGE ~Russian (by subzero400, Velv, minor updates by AGKanevchev)~ ~russian~ ~FishingForTrouble/language/russian/setup.tra~
-LANGUAGE ~Simplified Chinese (by Archenemy, minor updates by Yoshimo0417)~ ~schinese~ ~FishingForTrouble/language/schinese/setup-%WEIDU_OS%.tra~
+LANGUAGE ~Simplified Chinese (by Archenemy, minor updates by Yoshimo0417)~ ~schinese~ ~FishingForTrouble/language/schinese/setup.tra~
 
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //Fishing for Trouble by Yovaneth
