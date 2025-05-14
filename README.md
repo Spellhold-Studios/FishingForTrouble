@@ -1,8 +1,8 @@
 ## What is this repository?
-This is the Yovaneth's Fishing for Trouble mod for Baldur's Gate II: Shadows of Amn, adapted for Enhanced Edition while remaining compatible with original BG2 and BGT. For more details about the mod itself, see the FishingForTrouble-Readme.html.
+This is Yovaneth's Fishing for Trouble mod for Baldur's Gate II: Shadows of Amn, adapted for Enhanced Edition while remaining compatible with original BG2 and BGT. For more details about the mod itself, see the FishingForTrouble-Readme.html.
 
 ## Who is currently maintaining this mod?
-Active members of InfinityMods GitHub organization. Yovaneth is no longer supporting this mod and has given permission to update it.
+Active members of the Spellhold-Studios GitHub organization. Yovaneth is no longer supporting this mod and has permitted it to be updated.
 
 ## Where to look for help regarding this mod?
 - http://www.shsforums.net/forum/550-fishing-for-trouble
