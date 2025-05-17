@@ -1,14 +1,55 @@
-## What is this repository?
-This is Yovaneth's Fishing for Trouble mod for Baldur's Gate II: Shadows of Amn, adapted for Enhanced Edition while remaining compatible with original BG2 and BGT. For more details about the mod itself, see the FishingForTrouble-Readme.html.
+[![Release](https://img.shields.io/github/v/release/Spellhold-Studios/template-basic?include_prereleases&color=%2392403a)](https://github.com/Spellhold-Studios/FishingForTrouble/releases/latest)
+[![Published](https://img.shields.io/github/release-date-pre/Spellhold-Studios/template-basic?display_date=published_at&label=published&color=%2392403a)](https://github.com/Spellhold-Studios/FishingForTrouble/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/Spellhold-Studios/template-basic/total?color=%2392403a)](https://github.com/Spellhold-Studios/FishingForTrouble/releases)
+[![Platform](https://img.shields.io/badge/platform-Windows%20%a0%20macOS%20%a0%20Linux%20%a0%20Project%20Infinity-%2392403a)](https://github.com/Spellhold-Studios/FishingForTrouble/releases)
+[![Games](https://img.shields.io/badge/games-BG2%20%a0%20BGT%20%a0%20BG2%3AEE%20%a0%20EET-%2392403a)](https://github.com/Spellhold-Studios/FishingForTrouble/releases)
+[![Language](https://img.shields.io/badge/language-en%20%a0%20de%20%a0%20fr%20%a0%20zh--CN%20%a0%20zh--TW-%2392403a)](https://github.com/Spellhold-Studios/FishingForTrouble/releases)
 
-## Who is currently maintaining this mod?
-Active members of the Spellhold-Studios GitHub organization. Yovaneth is no longer supporting this mod and has permitted it to be updated.
+<!--
+Badges white space separator: %20%a0%20
+Badges ":" (colon) symbol: %3A
+Badges "-" (hyphen) symbol: --
+Games full list: BG1 BG2 BGT BG%3AEE SoD BG2%3AEE EET IWD1 IWD2 IWD%3AEE PST PST%3AEE
+IETF language tags: https://spellhold-studios.github.io/assets/docs/ietf-lang-tags.pdf
+Common language tags: en cs de es fr it ja ko pl pt--BR ru zh--CN zh--TW
+Why some badges update slowly: https://github.com/pujux/badge-it/issues/78
+-->
 
-## Where to look for help regarding this mod?
-- http://www.shsforums.net/forum/550-fishing-for-trouble
-- https://www.gibberlings3.net/forums
-- https://forums.beamdog.com
+<picture>
+  <img alt="SHS logo" src="https://raw.githubusercontent.com/Spellhold-Studios/Spellhold-Studios.github.io/main/assets/images/shs-corner-logo.svg" width="212" height="132">
+</picture>
 
-## Changelog
-- The latest changes are in FishingForTrouble\FishingForTrouble-Changelog.md
-- For changelog of 3.0 HF1: 19 February 2015 and older versions see the 3.0HF1.pdf in the FishingForTrouble\docs folder
+# Fishing For Trouble
+
+by Yovaneth
+
+*A Spellhold Studios mod for Baldur's Gate&nbsp;II*
+
+<br>
+
+[<img alt="Download" src="https://raw.githubusercontent.com/Spellhold-Studios/Spellhold-Studios.github.io/main/assets/buttons/download.svg" height="28">](https://github.com/Spellhold-Studios/FishingForTrouble/releases/latest)&nbsp;
+[<img alt="Readme" src="https://raw.githubusercontent.com/Spellhold-Studios/Spellhold-Studios.github.io/main/assets/buttons/readme.svg" height="28">](https://spellhold-studios.github.io/readmes/fishingfortrouble/FishingForTrouble-Readme.html)&nbsp;
+[<img alt="Webpage" src="https://raw.githubusercontent.com/Spellhold-Studios/Spellhold-Studios.github.io/main/assets/buttons/webpage.svg" height="28">](https://www.spellholdstudios.net/ie/fft/)&nbsp;
+[<img alt="Discord" src="https://raw.githubusercontent.com/Spellhold-Studios/Spellhold-Studios.github.io/main/assets/buttons/discord-blue.svg" height="28">](https://discord.gg/pE2Njbdb2a)
+
+## Introduction
+
+As is perfectly normal in the Infinity Engine games, at some point you will be accosted by a complete stranger asking you to deliver a letter for him. The recipient is your old friend Elminster (yes, he gets a bit part again). Elminster is very concerned about the contents of the letter and asks you to investigate why a village just south of Athkatla is being deserted by its inhabitants. You find that a demon has taken up residence in the village's lighthouse. The demon has a small favour to ask of you and in return, promises to tell why the village has been deserted. And so it begins...
+
+*Please check the complete [ReadMe](https://spellhold-studios.github.io/readmes/fishingfortrouble/FishingForTrouble-Readme.html) to learn more about this mod before installation.*
+
+## Key features
+
+- Five new major areas
+- 109 new internal areas
+- One new piece of music
+- Nearly 12,000 lines of dialog
+- 221 new NPCs
+- Sixty-three portraits for the major NPCs
+- Four cutscenes
+- Seventeen new stores
+- Twenty-nine new resource graphics
+- Sixty unique new creature scripts
+
+## Credits
+*Please check the complete [ReadMe](https://spellhold-studios.github.io/readmes/fishingfortrouble/FishingForTrouble-Readme.html).*
