@@ -3,7 +3,7 @@ v3.2.11, 21.05.2025
  - cleanup duplicate (case-insensitive) file
  - fixed ghoul portrait for EE
  - update Chinese translation and adjust file construction by yoshimo0417
- - update russian translation by subzero400
+ - update Russian translation by subzero400
 
 v3.2.10, 29.01.2024  
  TotoR115:
